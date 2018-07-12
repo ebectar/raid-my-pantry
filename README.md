@@ -11,3 +11,13 @@ A web application to help you find recipes based on the ingredients in your pant
 * Knex.js
 * PostgreSQL
 * Express.js
+
+## Future Implementations
+* Dietary Restrictions
+* Auto-updating ingredient quantities
+* Grocery list integrations
+
+## Author
+* Alyssa Ebert [ebectar@gmail.com](ebectar@gmail.com)
+
+-- MIT License
